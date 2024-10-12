@@ -22,7 +22,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/brendaevilly/brendaevilly/output/snake.svg" alt="Snake animation" />
-
-###
