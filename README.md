@@ -1,4 +1,4 @@
-<h2 align="left">Olá, Mundo! Meu Nome é Brenda, Sejam Bem-Vindos(as) ao Meu GitHub! &#x1F44B;</h2>
+<h2 align="left">Hello World, My Name Is Brenda, Welcome To My GitHub! &#x1F44B;</h2>
 
 ###
 
