@@ -1,4 +1,4 @@
-<h2 align="left">Olá Mundo 👋! Meu nome é Brenda Evilly, sejam bem-vindos!</h2>
+<h2 align="left">Hello World 👋! My name is Brenda Evilly, welcome!</h2>
 
 ###
 
