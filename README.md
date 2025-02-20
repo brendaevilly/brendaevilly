@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Hello World 😎! My name is Brenda Evilly, welcome to my GitHub!</h2>
+<h1 align="center">Hello World 😎! My name is Brenda Evilly, welcome to my GitHub!</h2>
 
 ###
 
