@@ -6,7 +6,7 @@
 
 <h2 align="center">🔗 About me</h2>
 
-###
+
 
 <h4 align="center">🎓 | Information Systems Student at the Federal University of Piauí <br>🎯 | Interested in full stack development, back end development, cloud computing and others</h4>
 
@@ -23,7 +23,6 @@
 
 ###
 
-<br clear="both">
 
 <h2 align="center">🔗 Techs</h2>
 
@@ -49,7 +48,6 @@
 
 ###
 
-<br clear="both">
 
 <h2 align="center">🔗 Find me</h2>
 
