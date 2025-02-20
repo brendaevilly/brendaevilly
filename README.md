@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hello World 👋! My name is Brenda Evilly, welcome to my GitHub!</h2>
+<h2 align="center">Hello World 👋! My name is Brenda Evilly, welcome to my GitHub!</h2>
 
 ###
 
@@ -8,7 +8,7 @@
 
 
 
-<h4 align="left">🎓 | Information Systems Student at the Federal University of Piauí <br><br>🎯 | Interested in full stack development, back end development, cloud computing and others</h4>
+<h4 align="center">🎓 | Information Systems Student at the Federal University of Piauí <br><br>🎯 | Interested in full stack development, back end development, cloud computing and others</h4>
 
 ###
 
