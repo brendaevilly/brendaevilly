@@ -23,8 +23,6 @@
 
 ###
 
-<br clear="both">
-
 <h2 align="left">🔗 Techs</h2>
 
 ###
@@ -50,8 +48,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <h2 align="left">🔗 Find me</h2>
 
