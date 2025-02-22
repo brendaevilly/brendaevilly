@@ -24,7 +24,7 @@
 
 ###
 
-<h6 align="center">🎓 | Information Systems Student at the Federal University of Piauí<br><br>🎯 | Interested in full stack development, back end development, cloud computing and others</h6>
+<h5 align="center">🎓 | Information Systems Student at the Federal University of Piauí<br><br>🎯 | Interested in full stack development, back end development, cloud computing and others</h5>
 
 ###
 
