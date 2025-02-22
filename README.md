@@ -57,7 +57,7 @@
   <a href="https://www.linkedin.com/in/brenda-evilly-8bba26332/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=5A00B4&logoColor=&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <a href="brendaevilly014@gmail.com" target="_blank">
+  <a href="https://brendaevilly014@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=5A00B4&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/brendaevillyy/" target="_blank">
