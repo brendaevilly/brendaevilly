@@ -6,10 +6,12 @@
   <a href="https://www.linkedin.com/in/brenda-evilly-8bba26332/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=5A00B4&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="linkedin logo"  />
   </a>
-  <a href="https://brendaevilly014@gmail.com" target="_blank">
+  <a href="brendaevilly014@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=5A00B4&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="gmail logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=5A00B4&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="instagram logo"  />
+  <a href="https://www.instagram.com/brendaevillyy/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=5A00B4&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
@@ -24,7 +26,7 @@
 
 ###
 
-<h5 align="center">🎓 | Information Systems Student at the Federal University of Piauí<br><br>🎯 | Interested in full stack development, back end development, cloud computing and others</h5>
+<h6 align="center">🎓 | Information Systems Student at the Federal University of Piauí<br><br>🎯 | Interested in full stack development, back end development, cloud computing and others</h6>
 
 ###
 
