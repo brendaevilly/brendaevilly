@@ -72,7 +72,3 @@
 </div>
 
 ###
-
-<h1 align="center"><p> Hello World ;) <p/></h1>
-
-###
