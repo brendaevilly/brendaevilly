@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left"><p>-- Information Systems Student at the Federal University of Piauí <p/><br><br><p>-- Interested in full stack development, back end development, cloud computing and others <p/></p>
+<p align="left"><p>-- Information Systems Student at the Federal University of Piauí <p/><br><p>-- Interested in full stack development, back end development, cloud computing and others <p/></p>
 
 ###
 
