@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">🎓 | I am an Information Systems student at the Federal University of Piauí.<br>👾 | Interested in full stack development, back end development, cloud computing and others.<br>🎮.</p>
+<p align="left">🎓 | I am an Information Systems student at the Federal University of Piauí.<br>👾 | Interested in full stack development, back end development, cloud computing and others.<br></p>
 
 ###
 
