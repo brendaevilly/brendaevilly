@@ -2,29 +2,7 @@
 
 ###
 
-<p align="center">Graduanda em Sistemas de Informação pela UFPI, meus principais interesses incluem APIs REST, Cloud Computing e DevOps. </p>
-
-###
-
-<h2 align="center">Em constante aprendizado...</h2>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
- 
-</div>
-
-###
+<p align="center">Graduanda em Sistemas de Informação pela UFPI, meus principais interesses incluem Cloud Computing e DevOps. </p>
 
 <h2 align="center">Saiba mais sobre mim e entre em contato comigo em...</h2>
 
